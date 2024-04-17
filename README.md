@@ -1,4 +1,4 @@
-# automation-download-pdf
+# Automation-download-pdf
 This is a simple project which utilizes the Playwright framework for web automation in python language. Specifically, it automates navigating to a webpage, locating the download PDF link, and initiating the download process. Once the PDF is downloaded, it then verifies whether the PDF file exists in the project directory or not.
 
 1. Download and install Python 3.10:
